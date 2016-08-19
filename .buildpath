@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="js/ckeditor/samples"/>
+	<buildpathentry kind="src" path="js/file-uploader/server/php"/>
+	<buildpathentry kind="src" path="js/google-map/data"/>
+	<buildpathentry kind="src" path="js/mini-upload-form"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
